@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MAK CARS COMPANY</string>
+
+
+    <string-array name="spin4">
+        <item> </item>
+        <item>Cart</item>
+        <item>Edit Info</item>
+        <item>Appointments</item>
+
+    </string-array>
+
+
+    <string-array name="spin2">
+        <item> </item>
+        <item>Add Models</item>
+        <item>View Models</item>
+        <item>Add Discount</item>
+    </string-array>
+
+    <string-array name="spin3">
+        <item> </item>
+        <item>View Appointments</item>
+        <item>View Feedbacks</item>
+        <item>View Payments</item>
+    </string-array>
+
+
+</resources>

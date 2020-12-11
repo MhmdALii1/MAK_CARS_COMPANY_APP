@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "921635366024",
+    "firebase_url": "https://mak-cars-company-ca97e.firebaseio.com",
+    "project_id": "mak-cars-company-ca97e",
+    "storage_bucket": "mak-cars-company-ca97e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921635366024:android:70263df1afe13a098e6b3d",
+        "android_client_info": {
+          "package_name": "com.example.makcarscompany"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921635366024-5m03d4nnd5kdepukvvhnd6vrgi2q9tme.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.makcarscompany",
+            "certificate_hash": "9c3941c18f4806a31da8b7c2d7480b600dc72951"
+          }
+        },
+        {
+          "client_id": "921635366024-gliapmosoeafslidl9dqj633cd4efdcg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7znPvuoBOzU2vXUo6wVSfmQsVjkmQV_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921635366024-gliapmosoeafslidl9dqj633cd4efdcg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
